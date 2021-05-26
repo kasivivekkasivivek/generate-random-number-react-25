@@ -1,4 +1,5 @@
-In this assignment let's build a **Random Number Generator** by applying the concepts we have learned till now.
+## LIVE DEMO :- <a href="https://dreamy-snyder-57148d.netlify.app/">Generate Random Number </a>
+In this assignment let's build a **Random Number Generator** 
 
 ### Refer to images below:
 
@@ -27,27 +28,13 @@ In this assignment let's build a **Random Number Generator** by applying the con
 - Start up the app using `npm start`
 </details>
 
-### Project Completion Instructions
 
-<details>
-<summary>Click to view the Functionality to be added</summary>
 
-#### Add Functionality
 
-The app must have the following functionalities
 
-- Initially the number displayed should be **0**
-- When **Generate** button is clicked, a random number should be generated in the range of 0 to 100 and displayed.
 
-</details>
 
-<details>
-<summary>Click to view the Implementation Files</summary>
 
-- Your task is to complete the implementation of
-  - `src/components/RandomNumberGenerator/index.js`
-  - `src/components/RandomNumberGenerator/index.css`
-  </details>
 
 #### Quick Tips
 
@@ -122,12 +109,3 @@ The app must have the following functionalities
 #### Font-families
 
 - Roboto
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being
->   imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a
->   look at the Cheat Sheets.
